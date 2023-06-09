@@ -1,13 +1,27 @@
-
-.Message{
-    color: red;
-
-}
-body{
-    background-image: linear-gradient(35deg, #b166ff 0, #8055fa 25%, #4d42d4 50%, #0030ae 75%, #00208b 100%);
-}
-text{
-    background-image: linear-gradient(35deg, #ff6a87 0, #ff5c8a 16.67%, #f44f88 33.33%, #d44282 50%, #b4377a 66.67%, #982e72 83.33%, #7f286c 100%);
-}
-
-
+.Message {
+    background-color: #c4cd46;
+    padding: 10px;
+    margin-top: 10px;
+    backdrop-filter: blur(5px);
+  }
+  
+  .header {
+    background-color: #9d1212;
+    padding: 10px;
+  }
+  
+  .main {
+    padding: 25px;
+  }
+  
+  .footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .Message {
+    background-color: #e6e6e6;
+    padding: 10px;
+    margin-top: 10px;
+  }
+    
